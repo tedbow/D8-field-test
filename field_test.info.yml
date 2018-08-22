@@ -1,0 +1,5 @@
+name: 'field_test'
+type: module
+description: 'Test fields'
+core: 8.x
+package: 'Custom'

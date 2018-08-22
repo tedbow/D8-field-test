@@ -1,0 +1,8 @@
+
+field_test.default_controller_fieldTest:
+  path: '/field_test/fieldTest'
+  defaults:
+    _controller: '\Drupal\field_test\Controller\DefaultController::fieldTest'
+    _title: 'Test fields'
+  requirements:
+    _permission: 'access content'
